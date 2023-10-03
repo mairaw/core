@@ -5,7 +5,7 @@
 - [Downloads](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Linux Package Managers](https://learn.microsoft.com/dotnet/core/install/linux)
 - [Containers](https://mcr.microsoft.com/catalog?search=dotnet/)
-- [Supported OSes](supported-os.md)
+- [Supported OS versions](supported-os.md)
 - [Known Issues](known-issues.md)
 - [Installation instructions](install.md)
 

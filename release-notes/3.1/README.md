@@ -7,7 +7,7 @@ This release is out of support. See [.NET releases](../../releases.md) for in-su
 - [Downloads](https://dotnet.microsoft.com/download/dotnet/3.1) (also see [Releases](#releases))
 - [Installation docs](https://learn.microsoft.com/dotnet/core/install/)
 - [Containers](https://hub.docker.com/_/microsoft-dotnet)
-- [Supported OSes](3.1-supported-os.md)
+- [Supported OS versions](3.1-supported-os.md)
 - [Known Issues](3.1-known-issues.md)
 - [Contributors](https://dotnet.microsoft.com/thanks )
 

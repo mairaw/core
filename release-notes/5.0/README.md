@@ -7,7 +7,7 @@ This release is out of support. See [.NET releases](../../releases.md) for in-su
 - [Downloads](https://dotnet.microsoft.com/download/dotnet/5.0) (also see [Releases](#releases))
 - [Installation docs](https://learn.microsoft.com/dotnet/core/install/)
 - [Containers](https://hub.docker.com/_/microsoft-dotnet)
-- [Supported OSes](5.0-supported-os.md)
+- [Supported OS versions](5.0-supported-os.md)
 - [Known Issues](5.0-known-issues.md)
 - [Contributors](5.0-contributor-list.md)
 
